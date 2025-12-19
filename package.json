@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "postprocessing": "^6.38.1",
+    "three": "^0.182.0"
+  }
 }
